@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/img/global/badge.png" alt="AWS Certified Cloud Practitioner" width="160">
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified Cloud Practitioner" width="160">
 </p>
 
 # IA_AWS — AWS Academy Generative AI Foundations
